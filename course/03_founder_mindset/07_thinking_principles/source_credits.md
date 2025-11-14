@@ -1,0 +1,10 @@
+## The Dumber Side of Smart People
+
+- **Source:** Collab Fund Blog
+- **Author:** Morgan Housel
+- **URL:** https://collabfund.com/blog/the-dumber-side-of-smart-people/
+- **Date:** 2025
+- **Featured:** Morgan Housel
+- **Referenced:** Robin Williams, Bryan Cranston/Seinfeld story, LeBron James
+- **Key Concepts:** Intelligence pitfalls, overconfidence, humility, credentialism, intellectual reputation, changing your mind, expertise shelf life
+- **Key Insight:** "Too much of a good thing" applies to intelligence. Three ways intelligence becomes a disadvantage: (1) Very smart people can fool themselves with elaborate stories about why something happened—they create complex models when "I don't know" might be the right answer. Humility is a superpower that prevents overconfidence, but being smart makes it harder to harness. There's a fine line between intellectual rigor and believing your own bullshit. Professional money managers' lousy returns partly because industry attracts intelligent people who are too smart for their own good. (2) Being very smart makes it harder to listen to less credentialed people—being smart is a tribe, and tribal affiliations make it hard to view outsiders as equals. "Best idea wins" regardless of source. Bryan Cranston: "A very smart CEO should listen to every suggestion—best idea wins. And you never know where it's gonna come from." Management consultants solving problems that line workers had solutions for. (3) Having an intellectual reputation makes it hard to change your mind—world evolves but smart person is desperate to hold onto perceived consistency. Become known as expert in something that no longer exists. Market yourself as expert, so hard to evolve. Smart people cling to bad ideas because of reputation. Hedge fund manager from 1990s vs. garbageman—latter more attuned to current reality without intellectual baggage. Biggest risk to evolving system: bogged down by experts from world that no longer exists. Expertise has shelf life. Most susceptible: smartest people who flashed brilliance but struggle to admit it can't be repeated.

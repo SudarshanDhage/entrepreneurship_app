@@ -1,0 +1,13 @@
+# Source Credits
+
+## Principles Trump Processes
+
+- **Source:** Joseph Jude Blog (jjude.com)
+- **Author:** Joseph Jude (Coach and writer)
+- **URL:** https://www.jjude.com/principles-trumps/
+- **Date:** 2025
+- **Key Concepts:** Strategic thinking, principles vs processes, fundamentals, cargo cult practices, tools vs understanding, context-dependent solutions
+- **Key Insight:** If you want to last longer in a field with respect, focus on fundamental principles governing it. Don't copy the visible at the cost of principles. Photography analogy: cameras/lenses/filters are visible and easy to discuss, but lighting/composition/creativity (fundamentals) are hardest and many photographers ignore them. Examples of copying visible instead of principles: focusing on fonts/colors instead of content, rolling out Jira without PM training, copying Steve Jobs' turtlenecks, tuning logo instead of PMF, adopting microservices because Dropbox does, buying Apple stock because Buffett does. Tamil movie comedy scene: Senthil copies Goundamani's words ("she was a mother to all of us") without understanding context, uses same words at wife's funeral ("she was a wife to all of us") - hilarious mistake showing danger of copy-paste without understanding. Latest trends/tools/practices are visible, easy to copy, good for cocktail party talks, but when context changes you're handicapped. Principles are opposite - nobody enjoys challenging cemented beliefs, but principles determine whether you thrive or fade away. David Ogilvy example: man had $500 for hotel opening, Ogilvy understood marketing principles, used simple postcards sent to local telephone directory, hotel opened with full house. If you understand principles well, can use any tool to achieve results. If know principles well, you'll be further than those using tool without understanding underlying tenets. What's on surface (tools/processes) churns faster. If want to last longer in field with respect, focus on fundamental principles. Key takeaways: (1) Focus on principles not processes, (2) Principles endure processes churn, (3) Understand principles to use any tool, (4) Cost of copying visible leaves you handicapped, (5) Principles determine success, (6) Harder but worth it, (7) Examples of mistake (fonts/colors, tools without training, copying style, tuning logo, adopting architectures blindly, following investments), (8) The test - are you copying visible patterns without understanding?, (9) Photography analogy, (10) Senthil mistake shows copy-paste danger.
+- **Used In:**
+  - Chapter 7: Strategy (Principles Over Processes) - Principles Trump Processes
+
